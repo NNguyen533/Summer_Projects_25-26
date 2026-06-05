@@ -1,6 +1,6 @@
 #define RED   6
-#define GREEN 4
-#define BLUE  2
+#define GREEN 5
+#define BLUE  3
 
 const int delayTime = 20;
 
